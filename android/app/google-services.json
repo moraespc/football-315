@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182746518896",
+    "project_id": "futech-804e0",
+    "storage_bucket": "futech-804e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182746518896:android:9513d2e0224c59557d2bb5",
+        "android_client_info": {
+          "package_name": "com.example.futebol_315"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182746518896-h2msd5ctptqshefisou7i6o6s5ivjd1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC77JIgTun2AX2EI9QbwHd1vK91CzLa5qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182746518896-h2msd5ctptqshefisou7i6o6s5ivjd1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
